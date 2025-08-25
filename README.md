@@ -1,4 +1,4 @@
-## Hi there 👋
+[If you like my work and would like to support me, click here!](https://ko-fi.com/vlazed)
 
 <!--
 **vlazed/vlazed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
