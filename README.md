@@ -1,4 +1,4 @@
-# [If you like my work and would like to support me, click here!](https://ko-fi.com/vlazed)
+<p><p> <a href="https://www.ko-fi.com/vlazed"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="ko-fi" /> </a> </p> </p>
 
 <!--
 **vlazed/vlazed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
